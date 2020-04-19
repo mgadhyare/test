@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1 class="text-danger"> Welcome to my home </h1>
+    <p> this is my first lesson for github in somali </p>
 </body>
 </html>
