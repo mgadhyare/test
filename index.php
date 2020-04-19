@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Welcome to my home </h1>
+    <h1 class="text-danger"> Welcome to my home </h1>
 </body>
 </html>
